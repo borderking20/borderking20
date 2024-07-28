@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @borderking20
-- 👀 I’m interested in competitive programming && part time mern stack developer
+- 👀 I’m interested in competitive programming && part time mern stack development
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate in internships
 - 📫 How to reach me ? simple send me an email on devanshguptaucer@gmail.com
