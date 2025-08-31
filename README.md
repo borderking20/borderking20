@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @borderking20
-- 👀 I’m interested in competitive programming && part time mern stack development
-- 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate in internships
+- 👀 I’m interested in competitive programming &&  mern stack development && system design
+- 🌱 I’m currently learning genAI
+- 💞️ I’m looking to collaborate in scalable projects
 - 📫 How to reach me ? simple send me an email on devanshguptaucer@gmail.com
 - 😄 Pronouns: devansh
 - ⚡ Fun fact: backtracking
